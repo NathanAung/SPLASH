@@ -1,0 +1,4 @@
+repository "SplashProject@TechCProjects@cloud"
+  path "/"
+    br "/main"
+    co "/main"
